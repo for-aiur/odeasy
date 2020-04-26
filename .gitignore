@@ -1,0 +1,4 @@
+*.jpg
+*.png
+odeasy/__pycache__/
+tests/__pycache__/

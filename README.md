@@ -2,9 +2,12 @@
 
 Framework agnostic object detection API for quick prototyping
 
+
 ## Functions
 
-* [ ] list servers
+* [ ] register model zoo
+	* default registered is TFOD model zoo
+* [ ] list servers (model zoo)
 * [ ] list available models
 * [ ] list local models
 * [ ] create category groups
